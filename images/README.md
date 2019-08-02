@@ -1,4 +1,4 @@
-# ea_secondhomeworkdemo
+# images types
 
 A new Flutter project.
 
